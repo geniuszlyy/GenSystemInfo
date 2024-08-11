@@ -1,0 +1,4 @@
+wmi
+psutil
+colorama
+tabulate
